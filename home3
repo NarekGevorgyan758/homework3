@@ -1,0 +1,121 @@
+<script> const a = function (firstgrade,secondgrade,thirdgrade){
+  const fullgrade = firstgrade + ' ' + secondgrade + ' ' + thirdgrade;
+    return fullgrade };
+  const b = a(78,80,100);
+  console.log(b); </script>
+
+
+   <script> const mycomputer = function ();{
+    return yourcomputer;} </script>
+
+
+
+ <script> const a = function ( one, two, three,){
+  const b = one + '1' + two + '2' + three + '3' ;
+  }; <script>
+  
+  const d = a ( 1, 2, 3) + ' ' + 'hello'
+  console.log(d);
+
+
+  <script>
+	
+  const a = function (number1, number2, number3) {
+    return [ number1, number2, number3];
+  };
+  
+  const b = a( '10' , '100', '1000');
+  console.log(b[2]);
+
+  
+ </script>
+
+<script>
+	
+  const a = function(num10, num200, num3000){
+	
+if (num10.length<num200.length && num3000.length>num200.length){
+  return num3000 };
+   
+
+
+  
+</script>
+
+<script>
+	
+  const z = function (point1, point2,) {
+    if ( point1 === point2) {
+      return 0 ;
+    }
+    else if 
+      ( point1 > point2) {
+      return 1 ; }
+    
+    else 
+      (point1 < point2) {
+        return -1 ;
+      }
+  }
+      
+ 
+</script>
+
+<script>
+	
+  const y = function(4 , 8) {
+    return 4*8 ; }
+  
+</script>
+
+const functiondivide = function(num1,num2) {
+	
+	return num1/num2
+}
+  
+</script>
+
+
+<script>
+
+  const triangleArea = function (base, height) {
+    return divide(multiply(base,height),2);
+  
+</script>
+
+<script>
+
+  const numLength = function ('1230') {
+   
+    return numLenght.lenght - 3; 
+  
+</script>
+
+<script>
+
+  const numLength = function ('num1' 'num2' 50) {
+   
+    const numbers = 'num1' + 'num2'
+    if (numbers.lenght > 50) {
+      return 1 };
+    else if (numbers.lenght < 50){
+      return -1 ;
+    } 
+  
+</script>
+
+<script>
+
+  const runStuff = function (40, 40, 'number') {
+   
+    const numbers = 'num1' + 'num2'
+    if ('number' === 'rectangle') {
+      return 40*40 ; }
+    else if ('number' === 'triangle')
+      return (40*40)/2 ; }
+  else {
+    return -1 ;}
+    
+  
+</script>
+
